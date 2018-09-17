@@ -13,3 +13,5 @@ git init projeto
 
 git checkout -- arquivo.
 volta ao estado anterior
+
+alteração teste 19:47
